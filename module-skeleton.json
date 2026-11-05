@@ -1,0 +1,15 @@
+{
+  "repository": "module-cms-backup-and-restore-nuxt",
+  "capabilityKey": "liberusoftware/module-cms-backup-and-restore",
+  "presentation": "nuxt-vue",
+  "package": "@liberusoftware/module-cms-backup-and-restore-nuxt",
+  "foundation": "module-boilerplate-nuxt",
+  "foundationCommit": "79158f1285e465decdccea7fe7c80bf652abd114",
+  "canonicalPlan": "projects/cms/nextjs/backup-and-restore.md",
+  "presentationPlan": "projects/cms/nuxt/backup-and-restore.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "cms"
+  ]
+}
